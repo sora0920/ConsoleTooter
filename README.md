@@ -1,5 +1,6 @@
 # ConsoleTooter
 ## 説明
+!移動しましたhttps://github.com/SH-OToS/ConsoleTooter!
 コンソールで作業中にちょっとTootしたくなったときに使えます
 ## 書式
 [割り当てたコマンド名] [内容]
