@@ -13,3 +13,5 @@ https://github.com/SH-OToS/ConsoleTooter
 4. toot.shの$TOKENをアクセストークンに書き換えます
 5. シェルのエイリアスで[お好きなコマンド名]=[sh toot.sh]って感じに設定します
 6. コマンド感覚でTootできます
+## ライセンス
+NYSL Version 0.9982に従います
