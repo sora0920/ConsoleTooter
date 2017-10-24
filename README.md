@@ -1,7 +1,8 @@
 # ConsoleTooter
 ## 説明
 https://github.com/SH-OToS/ConsoleTooter
-の機能を削って限りなくシンプルにしたバージョンです
+の初期バージョンです   
+
 
 コンソールで作業中にちょっとTootしたくなったときに使えます
 ## 書式
